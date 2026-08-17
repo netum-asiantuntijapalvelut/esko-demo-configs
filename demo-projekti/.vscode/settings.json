@@ -1,0 +1,6 @@
+{
+  // Agenttihookit (07-hookit) ovat Preview-ominaisuus. Tämä varmistaa,
+  // että myös agenttien frontmatterissa määritellyt hookit ovat käytössä.
+  // Workspace-hookit .github/hooks/*.json latautuvat tästä riippumatta.
+  "chat.useCustomAgentHooks": true
+}
